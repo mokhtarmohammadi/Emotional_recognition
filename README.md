@@ -1,0 +1,2 @@
+# Emotional_recognition
+There have been ongoing studies about emotion recognition for about a decade based on electroencephalogram (EEG) signal analysis. Before, using EEG for emotion recognition, other approaches like voice, facial gesture, and hand script analysis were used to detect the active emotional states. However, there is no generic approach of emotion recognition that can be comprehensive for all the different applications. 
